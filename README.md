@@ -4,11 +4,79 @@
 
 <div align="center">
 
+# 🚀 GuideVault 🚀
+
 **GuideVault** is a comprehensive documentation warehouse that provides structured learning paths using official documentation for developers. Master React, TypeScript, Next.js, Tailwind CSS, and 25+ technologies through curated paths that focus on official docs—no tutorials, no rewrites—just the right order.
 
 [![Website](https://img.shields.io/badge/Website-guidevault--xd.vercel.app-blue?style=for-the-badge&logo=vercel)](https://guidevault-xd.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-CodewithEvilxd-black?style=for-the-badge&logo=github)](https://github.com/CodewithEvilxd/GuideVault)
 [![Discord](https://img.shields.io/badge/Discord-raj.dev_-purple?style=for-the-badge&logo=discord)](#)
+
+![GitHub stars](https://img.shields.io/github/stars/CodewithEvilxd/GuideVault?style=social)
+![GitHub forks](https://img.shields.io/github/forks/CodewithEvilxd/GuideVault?style=social)
+![GitHub issues](https://img.shields.io/github/issues/CodewithEvilxd/GuideVault?style=social)
+
+---
+
+## 📋 Table of Contents
+
+- [🚀 Features](#-features)
+- [🛠️ Technologies Covered](#%EF%B8%8F-technologies-covered)
+- [📦 Installation](#-installation)
+- [🏗️ Build & Development](#%EF%B8%8F-build--development)
+- [📁 Project Structure](#-project-structure)
+- [🔍 How It Works](#-how-it-works)
+- [🤝 Contributing](#-contributing)
+- [📞 Contact](#-contact)
+
+---
+
+<div align="center">
+
+```
+   _____
+  /     \
+ /  🐍   \
+|   Guide  |
+ \  Vault /
+  \_____/
+     ||
+     ||
+    /  \
+   |    |
+   |    |
+   |____|
+  /      \
+ |  Learn  |
+  \______/
+```
+
+*Welcome to GuideVault - Your Ultimate Learning Companion!*
+
+## 🎮 Learning Progress
+
+<div align="center">
+
+### Frontend Mastery
+React: ████████░░ 80%
+TypeScript: ███████░░░ 70%
+Next.js: ████████░░ 80%
+
+### Backend Mastery
+Node.js: ███████░░░ 70%
+Python: ███████░░░ 70%
+PostgreSQL: ███████░░░ 70%
+
+### DevOps & Cloud
+Docker: ███████░░░ 70%
+AWS: ███████░░░ 70%
+Linux: ███████░░░ 70%
+
+</div>
+
+</div>
+
+---
 
 </div>
 
@@ -38,44 +106,19 @@
 ## 🛠️ Technologies Covered
 
 ### Frontend
-<img src="https://guidevault-xd.vercel.app/images/React.svg" width="20" height="20" alt="React"/> React |
-<img src="https://guidevault-xd.vercel.app/images/Next.js.svg" width="20" height="20" alt="Next.js"/> Next.js |
-<img src="https://guidevault-xd.vercel.app/images/TypeScript.svg" width="20" height="20" alt="TypeScript"/> TypeScript |
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> |
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/> |
-Shadcn/UI | Aceternity UI
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcn/ui&logoColor=white) ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=flat&logo=aceternity&logoColor=white)
 
 ### Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/> |
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/> |
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> |
-<img src="https://guidevault-xd.vercel.app/images/Prisma.svg" width="20" height="20" alt="Prisma"/> Prisma |
-<img src="https://guidevault-xd.vercel.app/images/Drizzle.svg" width="20" height="20" alt="Drizzle"/> Drizzle |
-<img src="https://guidevault-xd.vercel.app/images/redis.svg" width="20" height="20" alt="Redis"/> Redis
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat&logo=drizzle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> |
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> |
-<img src="https://guidevault-xd.vercel.app/images/Rust.svg" width="20" height="20" alt="Rust"/> Rust |
-<img src="https://guidevault-xd.vercel.app/images/Go.svg" width="20" height="20" alt="Go"/> Go |
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> |
-<img src="https://guidevault-xd.vercel.app/images/Kotlin.svg" width="20" height="20" alt="Kotlin"/> Kotlin |
-<img src="https://guidevault-xd.vercel.app/images/Swift.svg" width="20" height="20" alt="Swift"/> Swift
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 ### Cloud & DevOps
-<img src="https://guidevault-xd.vercel.app/images/Azure.svg" width="20" height="20" alt="AWS"/> AWS |
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/> |
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" alt="Firebase"/> |
-<img src="https://guidevault-xd.vercel.app/images/supabase.svg" width="20" height="20" alt="Supabase"/> Supabase |
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> |
-<img src="https://guidevault-xd.vercel.app/images/linux.svg" width="20" height="20" alt="Linux"/> Linux
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Other
-<img src="https://guidevault-xd.vercel.app/images/jwt.svg" width="20" height="20" alt="JWT"/> JWT |
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat&logo=postman&logoColor=white" alt="REST APIs"/> REST APIs |
-<img src="https://img.shields.io/badge/HTTP-000000?style=flat&logo=http&logoColor=white" alt="HTTP"/> |
-<img src="https://img.shields.io/badge/Bun-F9F1E1?style=flat&logo=bun&logoColor=black" alt="Bun"/> |
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logo=postman&logoColor=white) ![HTTP](https://img.shields.io/badge/HTTP-000000?style=flat&logo=http&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-F9F1E1?style=flat&logo=bun&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ## 📦 Installation
 
