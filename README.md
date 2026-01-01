@@ -1,6 +1,6 @@
 # GuideVault
 
-[![GuideVault](https://guidevault.vercel.app/images/rd-og.png)](https://guidevault.vercel.app)
+[![GuideVault](https://guidevault-xd.vercel.app/images/rd-og.png)](https://guidevault-xd.vercel.app)
 
 **GuideVault** is a comprehensive documentation warehouse that provides structured learning paths using official documentation for developers. Master React, TypeScript, Next.js, Tailwind CSS, and 25+ technologies through curated paths that focus on official docs—no tutorials, no rewrites—just the right order.
 
@@ -150,7 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Website**: [https://guidevault.vercel.app](https://guidevault.vercel.app)
+- **Website**: [https://guidevault-xd.vercel.app](https://guidevault-xd.vercel.app)
 - **Email**: hello@guidevault.vercel.app
 - **Twitter**: [@guidevault](https://twitter.com/guidevault)
 
