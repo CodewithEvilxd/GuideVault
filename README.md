@@ -61,8 +61,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/guidevault/guidevault.git
-   cd guidevault
+   git clone https://github.com/CodewithEvilxd/GuideVault.git
+   cd GuideVault
    ```
 
 2. **Install dependencies**
@@ -151,8 +151,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Website**: [https://guidevault-xd.vercel.app](https://guidevault-xd.vercel.app)
-- **Email**: hello@guidevault.vercel.app
-- **Twitter**: [@guidevault](https://twitter.com/guidevault)
+- **Email**: codewithevilxd@gmail.com
+- **Discord**: raj.dev_
 
 ---
 
